@@ -1,0 +1,33 @@
+.forecast {
+    width: 90%;
+    max-width: 370px;
+    background: linear-gradient(135deg, #00feba, #5b548a);
+    color: #fff;
+    border-radius: 20px;
+    padding: 0 15px 20px;
+    text-align: center;
+    z-index: 100;
+    margin: 10px;
+}
+
+.forecast-weather-img {
+    width: 100px;
+}
+
+.min-max {
+    font-size: 20px;
+}
+
+.day {
+    font-size: 21px;
+}
+
+.forecast-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.col img {
+    width: 30px;
+}
