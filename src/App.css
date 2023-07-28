@@ -10,7 +10,6 @@ body {
   background-size: cover;
   width: auto;
   height: 100vh;
-  overflow: hidden;
 }
 
 .app {
